@@ -1,6 +1,6 @@
 ## 팀 개발을 위한 Git GitHub 시작하기
 
-![badge](https://img.shilds.io/badge/Hanbit%20Cat-Hello%20Github-orange)
+![badge](file:///C:/Users/user/Downloads/docsify-color.svg)
 
 ### : KDG : 안녕하세요? 김도균입니다 
 
