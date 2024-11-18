@@ -1,6 +1,6 @@
 ## 팀 개발을 위한 Git GitHub 시작하기
 
-![badge](<img src="https://img.shields.io/badge/Docsify-2ECE53?style=for-the-badge&logo=Docsify&logoColor=white">)
+![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 
 ### : KDG : 안녕하세요? 김도균입니다 
 
